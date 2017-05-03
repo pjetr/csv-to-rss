@@ -1,0 +1,20 @@
+{
+  "options": {
+    "host": "docs.google.com",
+    "path": "/spreadsheets/d/12GwEVrbYqJVtX5IOp4c36s_Q2yAqHAD7FA58QZ2T7eA/pub?gid=0&single=true&output=tsv"
+  },
+  "keys": [ 
+    "raw",
+    "artist",
+    "title",
+    "genre",
+    "year",
+    "date",
+    "url"
+  ],
+  "feedOptions": {
+    "title": "/r/listenToThis",
+    "description": "Automatically updates by the posts on the frontpage",
+    "author": "Peter Delvaux"
+  }
+}
